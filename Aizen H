@@ -1,5 +1,5 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BimbusCoder/Roblox-Scripts/master/MaterialLua"))()
-local UI = Material.Load({Title = "Dragon Blox Ultimate | {}#0001", Style = 1, SizeX = 250, SizeY = 250, Theme = "Mocha"})
+local UI = Material.Load({Title = " Script Aizen | {}#0001", Style = 1, SizeX = 250, SizeY = 250, Theme = "Mocha"})
 
 -- Tabs
 local Main = UI.New({Title = "Main"})
